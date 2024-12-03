@@ -48,4 +48,4 @@ Desarrollo de una herramienta integral basada en técnicas de deep learning para
 
 ---
 
-¡Gracias por visitar mi portafolio! 🌟 Espero que encuentres interesantes mis proyectos.
+¡Gracias por visitar mi portfolio! 🌟 Espero que encuentres interesantes mis proyectos.
