@@ -20,7 +20,7 @@ Este proyecto investiga el uso de redes neuronales convolucionales (CNN) para re
 - Comparativa de rendimiento entre las arquitecturas CNN estudiadas.
 - Experimentos con imágenes omnidireccionales y panorámicas.
 
-[🔗 Repositorio del Proyecto (Próximamente)](#)
+[🔗 Repositorio del Proyecto](https://github.com/anaortizle/TFG-CNNs.git)
 
 ---
 
