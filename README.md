@@ -24,10 +24,6 @@ Desarrollo de una herramienta integral basada en técnicas de deep learning para
 
 [🔗 Repositorio del Proyecto](https://github.com/anaortizle/TFM-3D-SLAM.git)
 
-## 📞 Contacto  
-- **LinkedIn:** [Ana Ortiz](www.linkedin.com/in/anaortizlegacion)  
-- **Email:** 29anaortiz@gmail.com
-
 ---
 
 ### 2️⃣ Trabajo de Fin de Grado: Estudio de redes neuronales convolucionales para la realización de tareas de mapping y localización
@@ -45,6 +41,12 @@ Este proyecto investiga el uso de redes neuronales convolucionales (CNN) para re
 - Experimentos con imágenes omnidireccionales y panorámicas.
 
 [🔗 Repositorio del Proyecto](https://github.com/anaortizle/TFG-CNNs.git)
+
+---
+
+## 📞 Contacto  
+- **LinkedIn:** [Ana Ortiz](www.linkedin.com/in/anaortizlegacion)  
+- **Email:** 29anaortiz@gmail.com
 
 ---
 
